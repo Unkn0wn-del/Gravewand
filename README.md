@@ -2,4 +2,4 @@
 Um simples jogo de texto feito em python.
 
 
-Obs:Eu dei uma parada nesse projeto, pq eu consegui implementar logicas em certas coisas, ent pode haver erros nele.
+Obs:Eu dei uma parada nesse projeto, pq eu não consegui implementar lógicas em certas coisas, então pode haver erros nele.
